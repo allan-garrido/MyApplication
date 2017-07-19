@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="msg1">Escriba numero 1</string>
+    <string name="msg2">Escriba numero 2</string>
+    <string name="msgCalc">Calcular</string>
+    <string name="msgR">0</string>
+    <string name="msgSuma">Suma</string>
+    <string name="msgResta">Resta</string>
+    <string name="msgMulti">Multiplicar</string>
+    <string name="msgDivi">Dividir</string>
+</resources>
